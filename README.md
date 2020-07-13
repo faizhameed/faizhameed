@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Faiz Hameed. Full Stack Developer
+### I am Faiz Hameed. Full Stack Developer
 
 - 🔭 I’m currently working on Nodejs and React Typescript
 - 🌱 I’m currently learning Typescript and AWS
