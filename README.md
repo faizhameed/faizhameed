@@ -14,7 +14,4 @@
 <a href="https://medium.com/@faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faizhameed" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizhameed&show_icons=true&locale=en" alt="faizhameed" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizhameed&" alt="faizhameed" /></p>
