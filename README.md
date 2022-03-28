@@ -13,5 +13,3 @@
 <a href="https://instagram.com/faiz_hameeed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faiz_hameeed" height="30" width="40" /></a>
 <a href="https://medium.com/@faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faizhameed" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizhameed&" alt="faizhameed" /></p>
