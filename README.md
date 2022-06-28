@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/faiz_hameed1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faiz_hameed1993" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/faiz_hameed1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faiz_hameed1993" height="30" width="40" /></a> -->
+
 <a href="https://linkedin.com/in/faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faizhameed" height="30" width="40" /></a>
 <a href="https://fb.com/faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="faizhameed" height="30" width="40" /></a>
 <a href="https://instagram.com/faiz_hameeed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faiz_hameeed" height="30" width="40" /></a>
