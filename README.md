@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizhameed&label=Profile%20views&color=0e75b6&style=flat" alt="faizhameed" /> </p>
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 📫 How to reach me **faizhameedv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
